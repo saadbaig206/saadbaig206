@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad Baig</h1>
 <h2 align="center">An Data Analyst from Pakistan</h2>
 
-<h3>**NED'28 | Microsoft Excel | SQL | Power BI | Python **</h3>
+<h3>**NED'28 | Microsoft Excel | SQL | Power BI | Python**</h3>
 
 - 📫 How to reach me **Gmail : hsaadbaig@gmail.com**
 
